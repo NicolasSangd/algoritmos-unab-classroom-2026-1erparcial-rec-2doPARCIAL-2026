@@ -21,7 +21,7 @@
 Antes de que la Comunidad pueda partir de Bolsón Cerrado, el Concilio de Elrond exige una prueba: quien quiera acompañar al portador del Anillo hasta Rivendel debe demostrar que comprende el lenguaje con el que los Magos cifran sus mapas, sus cuentas y sus hechizos. Ese lenguaje es Python. Este pergamino contiene seis pruebas. Cada una está sellada con tu propio legajo: nadie más en Mediatierra recibirá exactamente los mismos números que vos.
 
 ### Identificación y Sello del Pergamino
-* **Distancia Comarca→Bree:** [completar] km — usar en Ejercicio II
+* **Distancia Comarca→Bree:** [120] km — usar en Ejercicio II
 * **Millas iniciales recorridas:** [completar] — usar en Ejercicio II
 * **Pasos del Bosque Viejo:** [completar] — usar en Ejercicio IV
 * **Poder inicial del Anillo:** [completar] — usar en Ejercicio VI
